@@ -1,3 +1,11 @@
 body{
 	background-color: #FF4500;
 }
+div{
+	margin: 0 auto;
+}
+div img{
+	width: 200px;
+	hyphens: 300px;
+
+}
