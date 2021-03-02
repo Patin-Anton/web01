@@ -1,11 +1,27 @@
 body{
 	background-color: #FF4500;
+	margin: 0
+	
 }
-div{
-	margin: 0 auto;
-}
-div img{
-	width: 200px;
-	hyphens: 300px;
 
-}
+
+Новое рабочее место
+git config --global user.name ""
+git config --global user.email ""
+
+создать новый проект
+git init создал новый депозиторий
+
+сохранить изменения
+git add. добавляем все
+git commit -m "" добавляем коммит
+
+проверка состояния
+git status
+
+вывод списка коммитов
+git log
+
+
+
+облачный депозиторий  bitbacket.org github.com 
